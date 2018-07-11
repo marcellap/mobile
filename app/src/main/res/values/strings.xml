@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProfileManagement</string>
+    <string name="scatta_foto">Snap a photo</string>
+    <string name="nome">Name</string>
+    <string name="bio">Bio</string>
+    <string name="tel">Phone</string>
+    <string name="email">Email</string>
+    <string name="photo">Photo</string>
+</resources>
